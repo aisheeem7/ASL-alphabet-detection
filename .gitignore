@@ -1,0 +1,12 @@
+# Ignore dataset
+asl_alphabet_train/
+
+# Ignore numpy data
+*.npy
+
+# Python cache
+__pycache__/
+
+# Environment
+venv/
+.env
